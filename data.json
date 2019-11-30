@@ -1,0 +1,16 @@
+{
+  "members": [
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "TS",
+      "email": "email@email.com",
+      "birth": 1184630400000,
+      "gender": "F",
+      "blood": "AB+",
+      "weight": "80",
+      "height": "190"
+    }
+  ],
+  "instructors": []
+}
